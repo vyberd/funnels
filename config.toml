@@ -1,0 +1,5 @@
+[module]
+	[[module.imports]]
+	path = "github.com/vyberd/stylesheet"
+	[[module.imports]]
+	path = "github.com/vyberd/input"
